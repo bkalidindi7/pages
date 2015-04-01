@@ -1,8 +1,8 @@
 # Site settings
 # Update all variables under site settings.
-title:Pages # Update the name of your project
+title: Pages # Update the name of your project
 header-img: img/home-bg.jpg # Add a photo related to your project
-email: your-email@yourdomain.com #Update your email address
+email: bharkal@gmail.com #Update your email address
 description: "A Collaborative Research Blog Tool" # Update description of your project
 baseurl: "/pages" # Update to "/<name of your repository>"
 url: "http://bkalidindi7.github.io" # Update to "http://<github username>.github.io"
