@@ -1,13 +1,13 @@
 # Site settings
 # Update all variables under site settings.
-title: Project Pages # Update the name of your project
+title:Pages # Update the name of your project
 header-img: img/home-bg.jpg # Add a photo related to your project
 email: your-email@yourdomain.com #Update your email address
 description: "A Collaborative Research Blog Tool" # Update description of your project
-baseurl: "/project-pages" # Update to "/<name of your repository>"
-url: "http://materialsinnovation.github.io" # Update to "http://<github username>.github.io"
-github_username:  materialsinnovation # Update to your <github_username>
-project_repository: project-pages # Update to your <repository name>
+baseurl: "/pages" # Update to "/<name of your repository>"
+url: "http://bkalidindi7.github.io" # Update to "http://<github username>.github.io"
+github_username:  bkalidindi7 # Update to your <github_username>
+project_repository: pages # Update to your <repository name>
 
 # Build settings
 # Don't change these variables
