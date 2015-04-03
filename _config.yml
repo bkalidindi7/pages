@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg # Add a photo related to your project
 email: bharkal@gmail.com #Update your email address
 description: "A Collaborative Research Blog Tool" # Update description of your project
 baseurl: "/pages" # Update to "/<name of your repository>"
-url: "http://bkalidindi7.github.io" # Update to "http://<github username>.github.io"
+url: "http://bkalidindi7.github.io/pages" # Update to "http://<github username>.github.io"
 github_username: bkalidindi7 # Update to your <github_username>
 project_repository: pages # Update to your <repository name>
 
